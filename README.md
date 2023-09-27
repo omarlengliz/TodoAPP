@@ -52,7 +52,7 @@ The API documentation is available through Swagger at `http://localhost:3000/api
 To run tests using Jest and Supertest:
 
 ```
-npm test
+npx jest 
 ```
 
 ## Contributing
